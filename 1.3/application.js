@@ -535,4 +535,4 @@
                       }
                     }
                   `})),e.jsx('catalogTemplate',null,e.jsx('banner',null,e.jsx('title',null,Object(o.get)('my-recomendations'))),e.jsx('list',null,e.jsx('section',null,d.map(([t,a])=>e.jsx('listItemLockup',{key:t},e.jsx('title',null,Object(i.a)(t)),e.jsx('decorationLabel',null,a.length),e.jsx('relatedContent',null,e.jsx('grid',null,e.jsx('section',null,Object(i.o)(a).map((t)=>{const{id:a,covers:{big:n}}=t,s=Object(o.get)('tvshow-title',t);return e.jsx(m.a,{key:a,title:s,route:'tvshow',poster:n,payload:{sid:a,poster:n,title:s}})}))))))))))}})))};var n=a(3),s=a.n(n),d=a(6),o=a(2),r=a(4),i=a(5),l=a(8),m=a(9),u=a(7),h=a(13),c=Object.assign||function(e){for(var t=1,a;t<arguments.length;t++)for(var n in a=arguments[t],a)Object.prototype.hasOwnProperty.call(a,n)&&(e[n]=a[n]);return e}}).call(t,a(1))}]);
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=application.js.map
